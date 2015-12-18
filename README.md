@@ -12,7 +12,7 @@ This project was built using [ng-boilerplate](https://github.com/ianwalter/ng-bo
 Install using Bower:
 
 ```
-bower install ng-breadcrumbs --save
+bower install es-breadcrumbs --save
 ```
 
 Include ng-breadcrumbs.min.js in your app.
