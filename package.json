@@ -1,0 +1,10 @@
+{
+  "name": "ng-breadcrumbs",
+  "description": "ng-breadcrumbs",
+  "version": "0.4.1-1",
+  "main": "dist/ng-breadcrumbs.min.js",
+  "keywords": [
+    "ng-breadcrumbs"
+  ],
+  "license": "MIT"
+}
